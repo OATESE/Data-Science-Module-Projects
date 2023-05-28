@@ -4,3 +4,6 @@ Repository to display my submissions for submitted work for my data science cour
 The first two projects are submissions for Introduction to Data Science in economics, which sylabbus is as follows: Introduction to data science, Data preparation,Data cleaning and integration,Data manipulation,Working with big data & Basic programming skills 
 
 The second two projects are submissions for Data science in economics which syllabus is as follows: Data Retrieval, Data Wrangling, Data (statistical) Inference , Intermediate-level Data Visualisation & Social Network Analysis
+
+
+Over the two years i have acheived 80%+ in both modules and recieved excellent feedback which is also included in each projects folder
